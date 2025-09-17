@@ -1,4 +1,4 @@
-# How-to-embed-a-word-document-in-HTML-for-viewer-only-mode
+# Embed a word document in HTML for viewer only mode
 This repository contains example how to embed word document in HTML using Syncfusion DOCX Editor in a React application. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
