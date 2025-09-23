@@ -1,7 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import './App.css';
-import { DocumentEditorComponent, Ribbon } from '@syncfusion/ej2-react-documenteditor';
-DocumentEditorComponent.Inject(Ribbon);
+import { DocumentEditorComponent } from '@syncfusion/ej2-react-documenteditor';
 
 function App() {
   const containerRef = useRef<DocumentEditorComponent | null>(null);
