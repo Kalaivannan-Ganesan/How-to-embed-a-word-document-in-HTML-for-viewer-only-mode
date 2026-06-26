@@ -1,5 +1,6 @@
-# Embed a word document in HTML for viewer only mode
-This repository contains example how to embed word document in HTML using Syncfusion DOCX Editor in a React application. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
+# Embed a word document in HTML for viewer-Only mode in React Using the DOCX Editor (Document Editor)
+
+This repository contains example how to embed word document in HTML using Syncfusion<sup style="font-size:70%">&reg;</sup> [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) in a React application. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
 
@@ -34,14 +35,13 @@ This repository contains example how to embed word document in HTML using Syncfu
     ```
     This will open the application in your default web browser, typically at `http://localhost:3000`.
 
+# Resources
 
-  # Resources 
+- **Product page:**   [Syncfusion® React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Product page:**   [Syncfusion® React Word Processor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor) 
+- **Documentation:**   [Syncfusion® React DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/react/getting-started) 
-
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/react/demos/) 
+- **Online demo:**   [Syncfusion® React DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/react/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples)
 
 # Support and feedback 
 
